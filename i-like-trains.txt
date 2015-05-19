@@ -756,3 +756,4 @@ zwin.magister.net;Zwin College
 willem2.magister.net;Koning Willem II College
 derede.magister.net;SSG De Rede
 niekee.magister.net;Niekee Roermond
+debreul.magister.net;KSG De Breul
