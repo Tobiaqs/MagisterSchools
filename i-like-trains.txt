@@ -587,7 +587,7 @@ rsgno.magister.net;RSG NO Veluwe
 pantarijn.magister.net;RSG Pantarijn
 vestdijk.magister.net;RSG Simon Vestdijk
 rsgslingerbos.magister.net;RSG Slingerbos
-rsgta.magister.net;RSG Ter Apel
+rsgterapel.magister.net;RSG Ter Apel
 trompmeesters.magister.net;RSG Tromp Meesters
 wiringherlant.magister.net;RSG Wiringherlant
 vszh.magister.net;Rudolf Steiner College Rotterdam
