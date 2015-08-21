@@ -761,3 +761,4 @@ helicon.magister.net;Helicon vmbo
 onderwijsgroeptilburg.magister.net;Frater van Gemertschool
 onderwijsgroeptilburg.magister.net;Onderwijsgroep Tilburg
 gregorius.magister.net;St. Gregorius College
+rembrandt.magister.net;Rembrandt College
