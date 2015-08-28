@@ -762,3 +762,5 @@ onderwijsgroeptilburg.magister.net;Frater van Gemertschool
 onderwijsgroeptilburg.magister.net;Onderwijsgroep Tilburg
 gregorius.magister.net;St. Gregorius College
 rembrandt.magister.net;Rembrandt College
+zaam.magister.net; Havo De Hof
+zaam.magister.net; Zaam
