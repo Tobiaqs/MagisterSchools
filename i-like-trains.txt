@@ -764,3 +764,5 @@ gregorius.magister.net;St. Gregorius College
 rembrandt.magister.net;Rembrandt College
 zaam.magister.net; Havo De Hof
 zaam.magister.net; Zaam
+obc.magister.net; OBC
+obc.magister.net; Over Betuwe College
