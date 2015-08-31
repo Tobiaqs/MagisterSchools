@@ -767,3 +767,4 @@ zaam.magister.net;Zaam
 obc.magister.net;OBC
 obc.magister.net;Over Betuwe College
 daltondordrecht.magister.net;Stedelijk Dalton Lyceum
+parkstad.magister.net;Sint-Jan College
