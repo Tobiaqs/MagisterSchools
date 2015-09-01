@@ -769,3 +769,6 @@ obc.magister.net;Over Betuwe College
 daltondordrecht.magister.net;Stedelijk Dalton Lyceum
 parkstad.magister.net;Sint-Jan College
 ypenburg.magister.net;Lyceum Ypenburg
+tessenderlandt.magister.net;Tessenderlandt
+tessenderlandt.magister.net;De la Salle
+tessenderlandt.magister.net;Christoffel
