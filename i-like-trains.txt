@@ -376,7 +376,7 @@ jdw.magister.net;Johan de Witt Scholengroep
 jdw.magister.net;Johan de Witt Scholengroep City+ College
 jdw.magister.net;Johan de Witt Scholengroep Varias College
 swaef.magister.net;Johannes de Swaef voor PRO
-fontanus.magister.net;Johannes Fontanus College
+jfc.magister.net;Johannes Fontanus College
 kajmunk.magister.net;Kaj Munk College
 kalsbeek.magister.net;Kalsbeek College
 kandinsky.magister.net;Kandinsky College
