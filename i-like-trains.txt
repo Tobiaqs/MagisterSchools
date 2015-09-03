@@ -772,3 +772,4 @@ ypenburg.magister.net;Lyceum Ypenburg
 tessenderlandt.magister.net;Tessenderlandt
 tessenderlandt.magister.net;De la Salle
 tessenderlandt.magister.net;Christoffel
+mencia.magister.net;Mencia de Mendoza
