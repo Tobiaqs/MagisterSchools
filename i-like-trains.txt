@@ -773,3 +773,5 @@ tessenderlandt.magister.net;Tessenderlandt
 tessenderlandt.magister.net;De la Salle
 tessenderlandt.magister.net;Christoffel
 mencia.magister.net;Mencia de Mendoza
+vsvonh.magister.net;Stg Vrije Scholen
+vsvonh.magister.net;Adriaan Roland Holstschool
