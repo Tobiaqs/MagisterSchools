@@ -778,5 +778,3 @@ vsvonh.magister.net;Adriaan Roland Holstschool
 cvozwfryslan.magister.net;CVO Zuid-West Fryslan
 cvozwfryslan.magister.net;Marne College
 prisma.magister.net;Prisma College
-cvozwfryslan.magister.net;CVO Zuid-West Fryslan
-cvozwfryslan.magister.net;Marne College
