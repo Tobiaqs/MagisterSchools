@@ -85,7 +85,7 @@ bonaventura.magister.net;Bonaventuracollege
 bonhoeffer.magister.net;Bonhoeffer College
 bonifatiusmavo.magister.net;Bonifatius mavo
 bonnefanten.magister.net;Bonnefanten College
-nieuwzuid.magister.net;BOOR
+boor.magister.net;BOOR
 bbc.magister.net;Bouwens van der Boije College
 broeckland.magister.net;Broeckland College
 sgwalda.magister.net;Burgemeester Walda SG
@@ -778,3 +778,4 @@ vsvonh.magister.net;Adriaan Roland Holstschool
 cvozwfryslan.magister.net;CVO Zuid-West Fryslan
 cvozwfryslan.magister.net;Marne College
 prisma.magister.net;Prisma College
+boor.magister.net;OSG Hugo de Groot
