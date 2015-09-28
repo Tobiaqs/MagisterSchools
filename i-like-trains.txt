@@ -62,7 +62,6 @@ atlas.magister.net;Atlas College VMBO Titaan
 aog.magister.net;Atlas Onderwijsgroep
 aog.magister.net;Atlas Onderwijsgroep Locatie Rijswijk
 aog.magister.net;Atlas Onderwijsgroep Lyceum Ypenburg
-avicenna.magister.net;Avicenna College
 bhc.magister.net;Baanderherencollege
 baudartius.magister.net;Baudartius College
 broekhinrm.magister.net;BC Broekhin Reuver
