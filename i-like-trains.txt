@@ -779,3 +779,4 @@ cvozwfryslan.magister.net;Marne College
 prisma.magister.net;Prisma College
 boor.magister.net;OSG Hugo de Groot
 avicennacollege.magister.net;Avicenna College
+ichthuslyceum.magister.net;Ichthus Lyceum
