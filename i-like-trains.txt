@@ -402,10 +402,10 @@ davinci.magister.net;Leonardo College
 libanon.magister.net;Libanon Lyceum
 liemers.magister.net;Liemers College
 lindecollege.magister.net;Linde College
-vozuid.magister.net;LMC VO zuid
-vozuid.magister.net;LMC VO zuid Palmentuin
-vozuid.magister.net;LMC VO zuid Slinge
-vozuid.magister.net;LMC VO zuid Veenoord
+lmc-vo.magister.net;LMC VO zuid
+lmc-vo.magister.net;LMC VO zuid Palmentuin
+lmc-vo.magister.net;LMC VO zuid Slinge
+lmc-vo.magister.net;LMC VO zuid Veenoord
 vonoord.magister.net;LMC-VO Rotterdam Noord
 lcl.magister.net;Lorentz Casimir Lyceum
 20tz.magister.net;Lorentz Lyceum
