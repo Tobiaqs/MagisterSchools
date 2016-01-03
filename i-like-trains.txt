@@ -1,6 +1,7 @@
 2college.magister.net;2College
 2college.magister.net;2College Cobbenhagen
-2college.magister.net;2College De Nieuwste School
+denieuwsteschool.magister.net;2College De Nieuwste School
+denieuwsteschool.magister.net;De Nieuwste School
 2college.magister.net;2College Durendael
 2college.magister.net;2College Jozefmavo
 2college.magister.net;2College Ruiven
