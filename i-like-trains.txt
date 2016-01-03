@@ -786,3 +786,4 @@ lmc-vo.magister.net;Zuiderpark College
 isw.magister.net;ISW Hoogeland
 connectcollege.magister.net;Connect College
 triviumcollege.magister.net;Trivium College
+lmc-vo.magister.net;Mavo Delfshaven
