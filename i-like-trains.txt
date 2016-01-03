@@ -784,3 +784,4 @@ rhedens.magister.net;RSG Het Rhedens
 lmc-vo.magister.net;Zuiderpark College
 isw.magister.net;ISW Hoogeland
 connectcollege.magister.net;Connect College
+triviumcollege.magister.net;Trivium College
