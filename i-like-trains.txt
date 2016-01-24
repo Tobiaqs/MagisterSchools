@@ -628,7 +628,7 @@ sintjans.magister.net;Sint-Janslyceum
 slc.magister.net;Sint-Laurenscollege Rotterdam
 sintlucasboxtel.magister.net;SintLucas Boxtel
 sintlucaseindhoven.magister.net;SintLucas Eindhoven
-smchv.magister.net;Sint-Maartenscollege Maastricht
+smc.magister.net;Sint-Maartenscollege Maastricht
 sintmaartens.magister.net;Sint-Maartenscollege Voorburg
 nicolaas.magister.net;Sint-Nicolaaslyceum
 oelbert.magister.net;Sint-Oelbertgymnasium
@@ -787,3 +787,4 @@ isw.magister.net;ISW Hoogeland
 connectcollege.magister.net;Connect College
 triviumcollege.magister.net;Trivium College
 lmc-vo.magister.net;Mavo Delfshaven
+smc.magister.net;Sint Maartenscollege Maastricht
