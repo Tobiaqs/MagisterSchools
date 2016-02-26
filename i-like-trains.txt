@@ -407,7 +407,9 @@ lmc-vo.magister.net;LMC VO zuid
 lmc-vo.magister.net;LMC VO zuid Palmentuin
 lmc-vo.magister.net;LMC VO zuid Slinge
 lmc-vo.magister.net;LMC VO zuid Veenoord
-vonoord.magister.net;LMC-VO Rotterdam Noord
+lmc-vo.magister.net;LMC-VO Rotterdam Noord
+lmc-vo.magister.net;LMC-VO
+lmc-vo.magister.net;Hildegardis Mavo
 lcl.magister.net;Lorentz Casimir Lyceum
 20tz.magister.net;Lorentz Lyceum
 ludger.magister.net;Ludger College
