@@ -791,3 +791,4 @@ triviumcollege.magister.net;Trivium College
 lmc-vo.magister.net;Mavo Delfshaven
 smc.magister.net;Sint Maartenscollege Maastricht
 rocwb.magister.net;ROC West-Brabant
+mch.magister.net;Maritieme Academie Harlingen
