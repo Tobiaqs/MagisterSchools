@@ -358,7 +358,7 @@ hofstadcollege.magister.net;Interconf. Hofstadcollege Hofstad Mavo
 isw.magister.net;Interconf. Scholengroep Westland
 atscholen.magister.net;International School Almere
 atscholen.magister.net;International School Hilversum
-arcus.magister.net;ISG Arcus
+svol.magister.net;ISG Arcus
 ivadriebergen.magister.net;IVA Driebergen
 pleysier.magister.net;J.C. Pleysierschool
 pleysier.magister.net;J.C. Pleysierschool Het Palmhuis
